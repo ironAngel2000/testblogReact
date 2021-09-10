@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "test blog system",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ironAngel2000/testblogReact.git"
+  },
+  "keywords": [
+    "Testprojekt",
+    "React",
+    "Blog"
+  ],
+  "author": "Bernd Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironAngel2000/testblogReact/issues"
+  },
+  "homepage": "https://github.com/ironAngel2000/testblogReact#readme"
+}
